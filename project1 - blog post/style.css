@@ -29,5 +29,29 @@ h2 {
 }
 
 .author-text {
+    border-top: 1px solid #808080;
+    padding-top: 2px;
     font-size: 22px;
+}
+
+.container {
+    width: 1140px;
+    margin: 20px auto 0px auto;
+}
+
+.blog-post {
+    width: 75%;
+    float: left;
+    padding-right: 20px;
+}
+
+.dummy-box {
+    width: 25%;
+    float: left;
+}
+
+.clear-fix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
