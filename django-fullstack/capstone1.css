@@ -1,0 +1,27 @@
+
+body {
+    background-color: blue;
+    padding: 20px 0 0 0;
+    font-family: 'Roboto Mono', monospace;
+    margin:0px;
+}
+
+.content {
+    background-color: blue;
+    text-align: center;
+    color:white;
+    border: 40px solid aqua;
+    border-top: 0;
+}
+
+.content p {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Major Mono Display', monospace;
+}
+
+#sub {
+    background-color: orange;
+    font-size: 1.5em;
+    margin: 10px;
+}
